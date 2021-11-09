@@ -17,6 +17,6 @@ samples/problem<設問番号>_readme.txtにデータについての説明・正�
 
 ## 回答プログラムについて
 
-app/log_reader.pyにそれぞれのロジックがあります。
+app/log_readerフォルダにそれぞれのロジックがあります。
 
 クラス名はLogReaderProblem<設問番号>となっています。
